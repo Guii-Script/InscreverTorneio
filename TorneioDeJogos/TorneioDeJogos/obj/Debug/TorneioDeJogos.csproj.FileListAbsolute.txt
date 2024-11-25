@@ -1,0 +1,7 @@
+C:\Users\guilherme.opaula\source\repos\TorneioDeJogos\TorneioDeJogos\bin\Debug\TorneioDeJogos.exe.config
+C:\Users\guilherme.opaula\source\repos\TorneioDeJogos\TorneioDeJogos\bin\Debug\TorneioDeJogos.exe
+C:\Users\guilherme.opaula\source\repos\TorneioDeJogos\TorneioDeJogos\bin\Debug\TorneioDeJogos.pdb
+C:\Users\guilherme.opaula\source\repos\TorneioDeJogos\TorneioDeJogos\obj\Debug\TorneioDeJogos.csproj.AssemblyReference.cache
+C:\Users\guilherme.opaula\source\repos\TorneioDeJogos\TorneioDeJogos\obj\Debug\TorneioDeJogos.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.opaula\source\repos\TorneioDeJogos\TorneioDeJogos\obj\Debug\TorneioDeJogos.exe
+C:\Users\guilherme.opaula\source\repos\TorneioDeJogos\TorneioDeJogos\obj\Debug\TorneioDeJogos.pdb
